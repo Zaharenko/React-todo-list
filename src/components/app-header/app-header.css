@@ -1,0 +1,16 @@
+.app-header{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-header h1{
+  margin-bottom: 25px;
+  text-transform: uppercase; 
+}
+
+.app-header h2{
+  font-size: 24px;
+  color: #ccc;
+}

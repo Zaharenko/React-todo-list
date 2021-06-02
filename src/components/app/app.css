@@ -1,0 +1,42 @@
+.morning{
+  background-color: #fff;
+}
+
+.evening{
+  background-color: #ccc;
+}
+
+.night{
+  background-color: #000;
+}
+
+.night .todo-app{
+  border: 2px solid #ccc;
+}
+
+.night input{
+  background-color: #ccc;
+}
+
+.night .list-group-item{
+  background-color: #ccc;
+}
+
+input{ 
+  box-shadow: none;
+  outline: none;
+}
+
+.todo-app{
+  margin: 3rem;
+  padding: 2rem;
+  border-radius: .5rem;
+}
+
+.top-panel{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}

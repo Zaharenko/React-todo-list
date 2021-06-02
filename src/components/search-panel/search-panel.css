@@ -1,0 +1,14 @@
+input{
+  box-shadow: none;
+  outline: none;
+  border: 1px solid #ccc;
+  padding: .55rem;
+  color: #ccc;
+  font-size: 16px;
+  border-radius: .5rem;
+}
+
+input::placeholder{
+  color: #ccc;
+  font-size: 16px;
+}
